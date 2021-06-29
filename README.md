@@ -11,3 +11,5 @@ where::-
   N is the number of points in your data sample.
   
   K is the number of independent regressors, i.e. the number of variables in your model, excluding the constant.
+
+We found in the end that the highest performance for this dataset is given by Random Forest Regression Model with  R^2 score of 0.96
