@@ -8,5 +8,6 @@ Adjusted R2 will always be less than or equal to R2.
 
 ![image](https://user-images.githubusercontent.com/54941875/123754096-21690b80-d8d8-11eb-953d-37c15fe42859.png)
 where::-
-  1.N is the number of points in your data sample.
-  2.K is the number of independent regressors, i.e. the number of variables in your model, excluding the constant.
+  N is the number of points in your data sample.
+  
+  K is the number of independent regressors, i.e. the number of variables in your model, excluding the constant.
